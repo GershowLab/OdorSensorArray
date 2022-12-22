@@ -1,0 +1,6 @@
+[submodule "arduino_data acquisition teensy code/osa/src/ENS210"]
+	path = arduino_data acquisition teensy code/osa/src/ENS210
+	url = git@github.com:maarten-pennings/ENS210.git
+[submodule "arduino_data acquisition teensy code/osa/src/SGP30"]
+	path = arduino_data acquisition teensy code/osa/src/SGP30
+	url = git@github.com:mgershow/SparkFun_SGP30_Arduino_Library.git
