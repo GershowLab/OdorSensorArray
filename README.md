@@ -1,6 +1,6 @@
 # OdorSensorArray
 
-This repository contains circuit board design files of the odor sensor array (OSA) used in the paper [Chen et. al., 2023](https://doi.org/10.48550/arXiv.2301.05905), as well as custom software written for sensor data acquisition and analysis.
+This repository contains circuit board design files of the odor sensor array (OSA) used in the paper [Chen, Wu et. al., 2023](https://doi.org/10.7554/eLife.85910), as well as custom software written for sensor data acquisition and analysis.
 
 ## Getting Started
 
@@ -37,7 +37,7 @@ The manufacturer of the humidity sensor ENS210 has changed from [ams](https://am
 
 If you use the design files and/or codes provided in this repository, please cite:
 
-> Kevin S. Chen, Rui Wu, Marc H. Gershow, Andrew M. Leifer. (2023). Continuous odor profile monitoring to study olfactory navigation in small animals. arXiv preprint. [[paper]](https://doi.org/10.48550/arXiv.2301.05905)
+> Chen, K. S., Wu, R., Gershow, M. H., & Leifer, A. M. (2023). Continuous odor profile monitoring to study olfactory navigation in small animals. eLife, 12, e85910. [[paper]](https://doi.org/10.7554/eLife.85910)
 > 
 
 ## License
